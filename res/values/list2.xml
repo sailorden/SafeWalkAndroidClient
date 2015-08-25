@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="location_array2">
+        <item>CL50</item>
+        <item>EE</item>
+        <item>LWSN</item>
+        <item>PMU</item>
+        <item>PUSH</item>
+        <item>*</item>
+    </string-array>
+</resources>
